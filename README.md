@@ -7,7 +7,7 @@
     Research question:<br/>
 </b>
 What is the role of cloudiness on the maximum bare ice extent on the Greenland Ice Sheet? <br/>
-
+<br/>
 
 <b>
     Data:<br/>
