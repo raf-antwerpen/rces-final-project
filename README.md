@@ -20,6 +20,7 @@ https://search.dataone.org/view/doi%3A10.5065%2FD6JH3J7Z<br/>
 </b>
 
 The bare ice extent on the Greenland Ice Sheet is spatiotemporally variable and is exposed only through snow melt during summers. Several processes and feedbacks affect the absorption of radiation and subsequent melting of snow and the maximum annual bare ice extent. Clouds play a large part in determining the amount of radiation that is absorbed by the snow, firn and ice by both blocking incoming shortwave radiation as well as retaining and emitting longwave radiation. <br/>
+<br/>
 In this study I investigate spatiotemporal correlations between the inter- and intra-annual bare ice extent and cloud cover at low, middle and high altitudes. I will perform the analysis over the entire GrIS, over the bare ice region and over its four quadrants: southwest, northwest, northeast and southeast.<br/>
 <br/>
 
