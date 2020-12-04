@@ -6,4 +6,9 @@ dependencies:
   - pandas
   - xarray
   - matplotlib
-  
+  - cartopy
+  - hvplot
+  - fsspec
+  - gdrivefs
+  - skimage
+
