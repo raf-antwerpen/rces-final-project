@@ -9,6 +9,4 @@ dependencies:
   - cartopy
   - hvplot
   - fsspec
-  - gdrivefs
-  - skimage
 
