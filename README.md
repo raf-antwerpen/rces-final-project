@@ -6,7 +6,7 @@
 <b>
     Research question:<br/>
 </b>
-What is the role of cloudiness on the maximum bare ice extent on the Greenland Ice Sheet for the period 2000-2010? <br/>
+What is the role of cloudiness on the bare ice extent on the Greenland Ice Sheet for the period 2000-2010? <br/>
 <br/>
 
 <b>
